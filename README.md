@@ -1,4 +1,10 @@
-### Hi there 👋
+### print('Hello World') 👋
+
+- 🔭 I’m currently working onmy self and my own projects, by my side, i focused a lot f my energy in show my help to other, and day by day i'm working on inprove my web development and my own logic.
+
+- 😄 Django -
+- 📫 React Js -
+- 🤔 MySQL -
 
 <!--
 **Josephbrito1/Josephbrito1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
