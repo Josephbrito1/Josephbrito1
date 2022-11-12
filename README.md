@@ -1,5 +1,5 @@
 # 💫 About Me:
-telescope I’m currently working onmy self and my own projects, by my side, i focused a lot f my energy in show my help to other, and day by day i'm working on inprove my web development and my own logic.<br><br>smile Django -<br><br>mailbox React Js -<br><br>thinking MySQL -
+😅 I’m currently working onmy self and my own projects, by my side, i focused a lot f my energy in show my help to other, and day by day i'm working on inprove my web development and my own logic.<br><br>😆 Django -<br><br>😇 React Js -<br><br>😎 MySQL -
 
 
 ## 🌐 Socials:
